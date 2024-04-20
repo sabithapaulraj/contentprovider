@@ -160,6 +160,11 @@ public class MainActivity extends AppCompatActivity {
 ![WhatsApp Image 2024-03-14 at 09 13 14_61b70945](https://github.com/sabithapaulraj/contentprovider/assets/118343379/60215f94-eaff-48df-ab8c-d709573c18c6)
 ![WhatsApp Image 2024-03-14 at 09 13 13_6017523e](https://github.com/sabithapaulraj/contentprovider/assets/118343379/ed03ecbf-dbd9-4c20-bcd5-643c9fd0ade9)
 
+## Working in Android Studio
+
+![Screenshot 2024-04-20 185713](https://github.com/sabithapaulraj/contentprovider/assets/118343379/bccd788f-4283-417a-acd8-1fd7832231c1)
+
+
 
 ## RESULT
 Thus a Simple Android Application create your own content providers to get contacts details using Android Studio is developed and executed successfully.
